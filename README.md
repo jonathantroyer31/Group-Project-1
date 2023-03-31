@@ -43,6 +43,7 @@ The data dictionary file shows the columns for each table which includes the nam
 ![image](https://user-images.githubusercontent.com/128402127/229165416-cbf5968b-ad73-46a3-a2d9-d74ebf4470c2.png)
 ![image](https://user-images.githubusercontent.com/128402127/229165598-b97e5965-a0fb-411a-ae83-fdc149bcfc51.png)
 ![image](https://user-images.githubusercontent.com/128402127/229165680-2b70cf78-4ef2-49f5-ab56-a6c60fe7fbd1.png)
+![image](https://user-images.githubusercontent.com/128402127/229167125-b005b724-cd94-4b85-97ae-6ea3ab631053.png)
 
 ## Queries
 #1
