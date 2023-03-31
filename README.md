@@ -2,7 +2,7 @@
 # Group Project Chick-fil-a Data Model
 
 
-## Group Repos
+## Group Repositories
 Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-1
 
 Carol Hubach - https://github.com/carolhubach/4610-Group-Project-1
