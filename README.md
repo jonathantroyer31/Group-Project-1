@@ -116,19 +116,24 @@ Justification: A manager would be interested in the average order size and numbe
 
 #9
  
- 
+ ![image](https://user-images.githubusercontent.com/128402127/229174751-fb4e2bdc-fce6-486e-9723-27efb151d908.png)
+
 Description: How many products of each type are left in inventory at the beechwood location?
 
 Justification: The managers of the store must know how much inventory they currently have. This is extremely important to know because it determines when to order more products and how much to purchase. Chick-fil-a is known for its reliability so it is vital that everything is in stock and delivered on time. 
 
 #10
  
+ ![image](https://user-images.githubusercontent.com/128402127/229174795-d6f858d9-b64c-4142-a5d3-5f29a46de040.png)
+
 Description: Which location has sold the most amount of Mac and Cheese?
 
 Justification: The manager must know which location has sold the most of a certain item because he or she will be able to see which location has the highest profitability. This is important because if one location is struggling at selling the item, this may show that they are preparing the item wrong, not marketing correctly, or having some other kinds of issues. By having the data to see which location is excelling with this item, the others can learn from it and overall profitability can increase. 
 
 
 ## Query Matrix
+
+![image](https://user-images.githubusercontent.com/128402127/229174911-d8af66a6-9ec6-4d4b-b7ca-6c36d2f5175e.png)
 
 The query matrix provides a description of the complexity of each query which includes multiple table joins, subqueries, correlated subqueries, REGEXP, built-in function, calculated fields, where, not exists, group by, having, and order by. 
 
