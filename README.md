@@ -37,7 +37,7 @@ After looking at our data model, we came to the conclusion that we could augment
 ## Data Dictionary
 The data dictionary file shows the columns for each table which includes the name of the column, the descption, the type of data, the size of the data, the format of the data, and if the data is a primary or foreign key. 
 ![image](https://user-images.githubusercontent.com/128402127/229163829-b647b3cb-d050-419a-b43d-bb07b0a8c885.png)
-![image](https://user-images.githubusercontent.com/128402127/229163951-f1227234-ba99-4638-9be1-8654cd98291c.png)
+![image](https://user-images.githubusercontent.com/128402127/229165999-04706db4-d022-43a0-9e22-dd5e4abde58c.png)
 ![image](https://user-images.githubusercontent.com/128402127/229164173-a1183058-977d-42be-a0a8-9fe3cde86671.png)
 ![image](https://user-images.githubusercontent.com/128402127/229165148-e93e7349-4ff2-4beb-ab71-8b877444c104.png)
 ![image](https://user-images.githubusercontent.com/128402127/229165416-cbf5968b-ad73-46a3-a2d9-d74ebf4470c2.png)
