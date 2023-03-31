@@ -116,7 +116,7 @@ Justification: A manager would be interested in the average order size and numbe
 
 #9
  
- ![image](https://user-images.githubusercontent.com/128402127/229174751-fb4e2bdc-fce6-486e-9723-27efb151d908.png)
+![image](https://user-images.githubusercontent.com/128402127/229175863-fc964d9a-ab71-4413-82cb-ec6a0ac9c432.png)
 
 Description: How many products of each type are left in inventory at the beechwood location?
 
@@ -124,7 +124,7 @@ Justification: The managers of the store must know how much inventory they curre
 
 #10
  
- ![image](https://user-images.githubusercontent.com/128402127/229174795-d6f858d9-b64c-4142-a5d3-5f29a46de040.png)
+![image](https://user-images.githubusercontent.com/128402127/229175938-28bcdda7-7d8a-4281-8ad6-cba884dc5a01.png)
 
 Description: Which location has sold the most amount of Mac and Cheese?
 
@@ -133,7 +133,7 @@ Justification: The manager must know which location has sold the most of a certa
 
 ## Query Matrix
 
-![image](https://user-images.githubusercontent.com/128402127/229174911-d8af66a6-9ec6-4d4b-b7ca-6c36d2f5175e.png)
+![image](https://user-images.githubusercontent.com/128402127/229176030-c4058008-3445-4a38-9fa1-8abc2472abf3.png)
 
 The query matrix provides a description of the complexity of each query which includes multiple table joins, subqueries, correlated subqueries, REGEXP, built-in function, calculated fields, where, not exists, group by, having, and order by. 
 
