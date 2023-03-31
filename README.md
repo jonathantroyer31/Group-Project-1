@@ -1,17 +1,17 @@
     
-# Group Project Chick-fil-a
+# Group Project Chick-fil-a Data Model
 
 
 ## Group Repos
-Jonathan - https://github.com/jonathantroyer31/Group-Project-1
+Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-1
 
-Carol - 
+Carol Hubach - https://github.com/carolhubach/4610-Group-Project-1
 
-Lena - 
+Lena Dindayal - https://github.com/lenadindayal/4610-Group-Project-1
 
-Lily - 
+Lily Athey - https://github.com/lilyathey/MIST-4610-Project-1
 
-Valerie - 
+Valerie Penaranda - https://github.com/valerieep/Group-Project1
 
 
 
